@@ -1,4 +1,4 @@
-# 👩‍🎓 Your Name — Student Portfolio
+# 👩‍🎓Sevilla Mikyla A. — Student Portfolio
 
 Welcome to my student portfolio!  
 This repository showcases my projects, skills, and experiences as I grow as a developer and learner.
